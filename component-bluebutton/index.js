@@ -1,5 +1,5 @@
 import Vue from 'vue';
-import BlueButton from './BlueButton'
+import BlueButton from './BlueButton';
 
 Vue.component('bluebutton', BlueButton);
 
